@@ -4,9 +4,7 @@ Made by Isac Larsson: 2026-03-18
 # What it does
 Its a prank virus that creates a window every second
 of a dancing fish. I used an autorun script so it
-could start automaticly when i plug it in
-
-
+could start automaticly when i plug it in (see video)
 
 # How it works
 It uses tkinter and vlc for python to generate a video
